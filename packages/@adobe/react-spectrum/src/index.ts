@@ -10,6 +10,7 @@
  * governing permissions and limitations under the License.
  */
 
+export {Accordion} from '@react-spectrum/accordion';
 export {ActionGroup} from '@react-spectrum/actiongroup';
 export {Breadcrumbs} from '@react-spectrum/breadcrumbs';
 export {ActionButton, Button, LogicButton, ToggleButton} from '@react-spectrum/button';
